@@ -22,7 +22,7 @@ runGist("7edbe536d118ca99841bb541355d99c7")
 
 ```
 
-5. Press the ![stop](/docs/stop.png) button to end the calculator <br />
+5. Press the ![stop](/docs/stop.png) button in R consol to end the calculator. <br /><br />
 
 For any enquiry, please feel free to contact Terry Cheuk-Fung YIP via tcfyip@cuhk.edu.hk
 
