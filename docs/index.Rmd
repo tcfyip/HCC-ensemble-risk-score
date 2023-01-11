@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-You can download all the files from <https://github.com/tcfyip/HCC-ensemble-risk-score>. Please click "Code" and then "Download ZIP". ![Click Code and Download ZIP](download.png)
+You can download all the files from <https://github.com/tcfyip/HCC-ensemble-risk-score>. Please click "Code" and then "Download ZIP". ![Click Code and Download ZIP](download.png){width=30%}
 
 Then you can put all the downloaded files in the same directory of your local computer and run the following R codes with R installed. Or you may want to fork the whole repository to your GitHub.
 
